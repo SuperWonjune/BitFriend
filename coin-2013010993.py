@@ -96,4 +96,3 @@ if __name__ == "__main__":
     print("ctrl + c to exit")
     while True:
         time.sleep(10)
-
